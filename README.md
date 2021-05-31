@@ -1,2 +1,2 @@
-# GCSO
-This is a car crashing game created by Smaira Sahu.
+# p5.play-boilerplate
+Boiler plate for p5.play
